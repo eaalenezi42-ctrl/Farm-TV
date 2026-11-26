@@ -1,4 +1,147 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-name="تلفزيون الكويت الأولى" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="01 - القنوات الكويتية",تلفزيون الكويت الأولى
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-name="تلفزيون الكويت الثانية" tvg-logo="https://i.imgur.com/hB57mNh.png" group-title="01 - القنوات الكويتية",تلفزيون الكويت الثانية
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVAlQurain.kw@SD" tvg-name="القرين" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="01 - القنوات الكويتية",القرين
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-name="تلفزيون الكويت - العربي" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="01 - القنوات الكويتية",تلفزيون الكويت - العربي
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-name="مارينا TV" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="01 - القنوات الكويتية",مارينا TV
+http://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa@SD" tvg-name="تلفزيون قطر" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="02 - القنوات الخليجية",تلفزيون قطر
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa@SD" tvg-name="قطر الثانية" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="02 - القنوات الخليجية",قطر الثانية
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-name="الريان" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="02 - القنوات الخليجية",الريان
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa@SD" tvg-name="الريان القديم" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="02 - القنوات الخليجية",الريان القديم
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-name="تلفزيون البحرين" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="02 - القنوات الخليجية",تلفزيون البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainInternational.bh@SD" tvg-name="البحرين الدولية" tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="02 - القنوات الخليجية",البحرين الدولية
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-name="تلفزيون عمان" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="02 - القنوات الخليجية",تلفزيون عمان
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-name="عمان الثقافية" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="02 - القنوات الخليجية",عمان الثقافية
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-name="عمان مباشر" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="02 - القنوات الخليجية",عمان مباشر
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae@SD" tvg-name="الشارقة" tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="02 - القنوات الخليجية",الشارقة
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae@SD" tvg-name="الوسطى من الذيد" tvg-logo="https://i.imgur.com/zgMqQPQ.png" group-title="02 - القنوات الخليجية",الوسطى من الذيد
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-name="تلفزيون سوريا" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="03 - القنوات العربية",تلفزيون سوريا
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Althania.sy" tvg-name="سوريا الثانية" tvg-logo="https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg" group-title="03 - القنوات العربية",سوريا الثانية
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleLiban.lb@SD" tvg-name="تلفزيون لبنان" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="03 - القنوات العربية",تلفزيون لبنان
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-name="OTV لبنان" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="03 - القنوات العربية",OTV لبنان
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="LanaTV.lb@SD" tvg-name="لنا" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="03 - القنوات العربية",لنا
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV2.qa@SD" tvg-name="العربي 2" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="03 - القنوات العربية",العربي 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-name="عشتار" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="03 - القنوات العربية",عشتار
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo@SD" tvg-name="التلفزيون الأردني" tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo-3.c1d0dd22.png" group-title="03 - القنوات العربية",التلفزيون الأردني
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-name="عمان TV" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="03 - القنوات العربية",عمان TV
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="JordanArchive.jo@SD" tvg-name="الأردن أرشيف" tvg-logo="https://i.imgur.com/8UrCl4k.png" group-title="03 - القنوات العربية",الأردن أرشيف
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir" tvg-name="آي فيلم 2 - فارسي" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="04 - قنوات الشرق الأوسط",آي فيلم 2 - فارسي
+https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy" tvg-name="روناهي - كردي" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="04 - قنوات الشرق الأوسط",روناهي - كردي
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-name="العراقية الكردية" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="04 - قنوات الشرق الأوسط",العراقية الكردية
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-name="كردستان 24" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="04 - قنوات الشرق الأوسط",كردستان 24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-name="الكويت الإخبارية" tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="05 - القنوات الإخبارية",الكويت الإخبارية
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-name="الجزيرة" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" group-title="05 - القنوات الإخبارية",الجزيرة
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" tvg-name="الجزيرة مباشر" tvg-logo="https://i.imgur.com/DfJI4t5.png" group-title="05 - القنوات الإخبارية",الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.qa@SD" tvg-name="التلفزيون العربي" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="05 - القنوات الإخبارية",التلفزيون العربي
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-name="سكاي نيوز عربية" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="05 - القنوات الإخبارية",سكاي نيوز عربية
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-name="فرانس 24 عربي" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" group-title="05 - القنوات الإخبارية",فرانس 24 عربي
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC News عربي" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="05 - القنوات الإخبارية",BBC News عربي
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-name="العراقية الإخبارية" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="05 - القنوات الإخبارية",العراقية الإخبارية
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 tvg-id="INews.iq@SD" tvg-name="آي نيوز العراقية" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="05 - القنوات الإخبارية",آي نيوز العراقية
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="05 - القنوات الإخبارية",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-name="DW عربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="05 - القنوات الإخبارية",DW عربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir@SD" tvg-name="العالم" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="05 - القنوات الإخبارية",العالم
+http://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-name="المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="05 - القنوات الإخبارية",المنار
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-name="العربية" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="05 - القنوات الإخبارية",العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-name="CNBC عربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="05 - القنوات الإخبارية",CNBC عربية
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-name="الكويت الرياضية" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="06 - الرياضة المجانية",الكويت الرياضية
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-name="الكويت الرياضية بلس" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="06 - الرياضة المجانية",الكويت الرياضية بلس
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-name="البحرين الرياضية 1" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="06 - الرياضة المجانية",البحرين الرياضية 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="البحرين الرياضية 2" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="06 - الرياضة المجانية",البحرين الرياضية 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-name="عمان الرياضية" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="06 - الرياضة المجانية",عمان الرياضية
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-name="الجزيرة الوثائقية (حسب المنطقة)" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="07 - الوثائقيات وعالم الحيوان",الجزيرة الوثائقية (حسب المنطقة)
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" tvg-name="Ch4Teen Documentary" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="07 - الوثائقيات وعالم الحيوان",Ch4Teen Documentary
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth (حسب المنطقة)" group-title="07 - الوثائقيات وعالم الحيوان",WildEarth (حسب المنطقة)
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq@HD" tvg-name="كربلاء الوثائقية" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" group-title="07 - الوثائقيات وعالم الحيوان",كربلاء الوثائقية
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-id="JordanTourism.jo@SD" tvg-name="الأردن سياحة" tvg-logo="https://i.imgur.com/gpeIoU9.png" group-title="07 - الوثائقيات وعالم الحيوان",الأردن سياحة
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-name="طه للأطفال" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="08 - قنوات الأطفال العربية",طه للأطفال
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-name="سبيستون" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="08 - قنوات الأطفال العربية",سبيستون
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-name="PBS Kids (حسب المنطقة)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="09 - قنوات الأطفال الأجنبية",PBS Kids (حسب المنطقة)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV" tvg-name="Baby Shark TV (حسب المنطقة)" group-title="09 - قنوات الأطفال الأجنبية",Baby Shark TV (حسب المنطقة)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SaudiQuran.sa" tvg-name="السعودية - القرآن الكريم" group-title="10 - القنوات الإسلامية",السعودية - القرآن الكريم
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="SaudiSunnah.sa" tvg-name="السعودية - السنة النبوية" group-title="10 - القنوات الإسلامية",السعودية - السنة النبوية
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw@SD" tvg-name="إثراء" tvg-logo="https://i.imgur.com/hqEbc49.png" group-title="10 - القنوات الإسلامية",إثراء
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa@HD" tvg-name="قطر القرآن الكريم" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="10 - القنوات الإسلامية",قطر القرآن الكريم
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-name="الجوادين" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="11 - القنوات الشيعية",الجوادين
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq@SD" tvg-name="المرجعية العربية" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11 - القنوات الشيعية",المرجعية العربية
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV3.iq@SD" tvg-name="الإمام الحسين 3 - English" tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="11 - القنوات الشيعية",الإمام الحسين 3 - English
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" tvg-name="الأصيل" tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="11 - القنوات الشيعية",الأصيل
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD" tvg-name="الصراط" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11 - القنوات الشيعية",الصراط
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-name="رسول الله" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="11 - القنوات الشيعية",رسول الله
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-name="الإمام الحسين 2 - عربي" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11 - القنوات الشيعية",الإمام الحسين 2 - عربي
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="العباسية" tvg-logo="https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png" group-title="11 - القنوات الشيعية",العباسية
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-name="تلفزيون الكويت الأولى" group-title="01 - القنوات الكويتية",تلفزيون الكويت الأولى
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-name="تلفزيون الكويت الثانية" group-title="01 - القنوات الكويتية",تلفزيون الكويت الثانية

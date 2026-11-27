@@ -159,10 +159,6 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-name="الجزيرة مباشر التردد 2" tvg-logo="https://i.imgur.com/DfJI4t5.png" group-title="05 - القنوات الإخبارية",الجزيرة مباشر التردد 2
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="AlMasirah.ye@SD" tvg-name="المسيرة" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="05 - القنوات الإخبارية",المسيرة
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMasirahMubacher.ye@SD" tvg-name="المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="05 - القنوات الإخبارية",المسيرة مباشر
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-name="النجاح الإخباري" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="05 - القنوات الإخبارية",النجاح الإخباري
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-name="قناة التغيير الفضائية" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="05 - القنوات الإخبارية",قناة التغيير الفضائية
